@@ -19,7 +19,7 @@
 ## 📂 Files
 - `ai_sentiment_gui.py` – GUI and backend combined
 - `sample_tweets.csv` – Tweet data used for sentiment analysis
-- `convert_kaggle.py` – Optional: convert original Kaggle CSV to filtered version
+- `convert_kaggle.py` – Convert original Kaggle CSV to filtered version
 - `screenshot1.png` – GUI preview
 
 ## 🔧 How to Run
