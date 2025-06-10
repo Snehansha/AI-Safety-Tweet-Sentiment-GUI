@@ -19,7 +19,6 @@ A desktop application built using Python and Tkinter for analyzing sentiment of 
 ## Files
 - `ai_sentiment_gui.py` – GUI and backend combined
 - `sample_tweets.csv` – Tweet data used for sentiment analysis
-- `convert_kaggle.py` – Convert original Kaggle CSV to filtered version
 - `screenshot1.png` – GUI preview
 
 ## How to Run
