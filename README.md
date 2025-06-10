@@ -5,7 +5,7 @@ A desktop application built using Python and Tkinter for analyzing sentiment of 
 ## Features
 - Analyzes all tweets automatically (no user input)
 - Classifies them as Positive, Negative, or Neutral using TextBlob
-- Displays results using beautiful charts (matplotlib)
+- Displays results using charts (matplotlib)
 - Clean and minimal Tkinter GUI
 - Easy to use and fully offline
 
